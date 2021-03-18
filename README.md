@@ -1,0 +1,1 @@
+Deploying own kubernetes infrastruture on DigitalOcean
